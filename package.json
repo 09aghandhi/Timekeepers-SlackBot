@@ -1,0 +1,23 @@
+{
+  "name": "timekeepers-slackbot",
+  "version": "1.0.0",
+  "description": "Slackbot to remind ANDI's to submit their timesheets",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/09aghandhi/timekeepers-slackbot.git"
+  },
+  "keywords": [
+    "slackbot",
+    "timesheets"
+  ],
+  "author": "Atul Dimitri Alice Ruman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/09aghandhi/timekeepers-slackbot/issues"
+  },
+  "homepage": "https://github.com/09aghandhi/timekeepers-slackbot#readme"
+}
